@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/class-E/Attributes/Attributes.iml" filepath="$PROJECT_DIR$/class-E/Attributes/Attributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employe/Employe.iml" filepath="$PROJECT_DIR$/Employe/Employe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-miras/IinheritanceDemo/IinheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritance-miras/IinheritanceDemo/IinheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MayinTarlasi/MayinTarlasi.iml" filepath="$PROJECT_DIR$/MayinTarlasi/MayinTarlasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SiniflarArasiIiskiler/SiniflarArasiIiskiler.iml" filepath="$PROJECT_DIR$/SiniflarArasiIiskiler/SiniflarArasiIiskiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/a.iml" filepath="$PROJECT_DIR$/.idea/a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accedModifies/accedModifies.iml" filepath="$PROJECT_DIR$/accedModifies/accedModifies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class-E/class-E.iml" filepath="$PROJECT_DIR$/class-E/class-E.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discord/discord.iml" filepath="$PROJECT_DIR$/discord/discord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for-each/for-each.iml" filepath="$PROJECT_DIR$/for-each/for-each.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hataAyiklama/hataAyiklama.iml" filepath="$PROJECT_DIR$/hataAyiklama/hataAyiklama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-miras/inheritance-miras.iml" filepath="$PROJECT_DIR$/inheritance-miras/inheritance-miras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface2/interface2.iml" filepath="$PROJECT_DIR$/interface2/interface2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaDersleri2/javaDersleri2.iml" filepath="$PROJECT_DIR$/javaDersleri2/javaDersleri2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kalitim/kalitim.iml" filepath="$PROJECT_DIR$/kalitim/kalitim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tahmin Oyunu/tahmin Oyunu.iml" filepath="$PROJECT_DIR$/tahmin Oyunu/tahmin Oyunu.iml" />
+    </modules>
+  </component>
+</project>
