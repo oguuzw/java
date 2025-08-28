@@ -9,6 +9,7 @@
     <mapping directory="$PROJECT_DIR$/diziler" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/for-each" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hesapMakinesi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/javaDersleri2" vcs="Git" />
   </component>
 </project>
