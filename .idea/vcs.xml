@@ -5,7 +5,6 @@
     <mapping directory="$PROJECT_DIR$/Employe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaDersleri/JavaDersleri" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaDersleri/java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/discord" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/diziler" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/for-each" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hesapMakinesi" vcs="Git" />
